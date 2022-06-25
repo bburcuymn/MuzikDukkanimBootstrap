@@ -1,0 +1,27 @@
+body{
+    background-color: #E9ECEF;
+    text-align: center;
+    font-family: 'Tiro Kannada', serif;
+    
+}
+
+.jumbotron>ul>li{
+    list-style-position: inside;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color:brown;
+}
+
+h3{
+    color:chocolate;
+}
